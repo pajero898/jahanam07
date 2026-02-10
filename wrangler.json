@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "jahanam07",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "056d70a9-46f0-44b3-98d3-b8ea9bceb6a6",
+			"database_name": "jahanam07"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
